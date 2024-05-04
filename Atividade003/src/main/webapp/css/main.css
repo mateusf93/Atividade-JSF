@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+.input-name {
+    width: 200px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
